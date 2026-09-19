@@ -42,17 +42,17 @@ WordPress Web Designer & Developer
 
 ### 🏠 Homepage
 
-![Homepage](./homepage.jpg)
+![Homepage](./homepage.png)
 
 ### 💼 Portfolio
 
-![Portfolio](./portfolio.jpg)
+![Portfolio](./portfolio.png)
 
 ### 👤 About Me
 
-![About Me](./about-me.jpg)
+![About Me](./about-me.png)
 
 ### 📞 Contact Me
 
-![Contact Me](./contact-me.jpg)
+![Contact Me](./contact-me.png)
 
